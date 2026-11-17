@@ -291,4 +291,4 @@ Add the licence of your choice here, for example MIT or Apache 2.0, and place th
 
 ## Contact
 
-Md. Alamgir Hossain. Add your institution and e-mail address here. Please open a GitHub issue for questions about the code or the results.
+Md. Alamgir Hossain. Founder and Director of Skill Morph Research lab., SKill Morph, Dhaka, Bangladesh. Mail: alamgir.cse14.just@gmail.com. Please open a GitHub issue for questions about the code or the results.
